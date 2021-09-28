@@ -1,0 +1,10 @@
+D:\MEHMET\OPERATORLER\Operatorler_Ornek\bin\Debug\Operatorler_Ornek.exe.config
+D:\MEHMET\OPERATORLER\Operatorler_Ornek\bin\Debug\Operatorler_Ornek.exe
+D:\MEHMET\OPERATORLER\Operatorler_Ornek\bin\Debug\Operatorler_Ornek.pdb
+D:\MEHMET\OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.csprojResolveAssemblyReference.cache
+D:\MEHMET\OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.Form1.resources
+D:\MEHMET\OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.Properties.Resources.resources
+D:\MEHMET\OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.csproj.GenerateResource.Cache
+D:\MEHMET\OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.exe
+D:\MEHMET\OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.pdb
+D:\MEHMET\OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.SayiOrnek.resources
