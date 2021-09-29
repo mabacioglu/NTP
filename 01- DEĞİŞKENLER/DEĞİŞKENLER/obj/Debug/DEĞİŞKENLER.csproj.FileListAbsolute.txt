@@ -1,0 +1,12 @@
+C:\Users\emel\Desktop\DEĞİŞKENLER\DEĞİŞKENLER\bin\Debug\DEĞİŞKENLER.exe.config
+C:\Users\emel\Desktop\DEĞİŞKENLER\DEĞİŞKENLER\bin\Debug\DEĞİŞKENLER.exe
+C:\Users\emel\Desktop\DEĞİŞKENLER\DEĞİŞKENLER\bin\Debug\DEĞİŞKENLER.pdb
+C:\Users\emel\Desktop\DEĞİŞKENLER\DEĞİŞKENLER\obj\Debug\DEĞİŞKENLER.csprojResolveAssemblyReference.cache
+C:\Users\emel\Desktop\DEĞİŞKENLER\DEĞİŞKENLER\obj\Debug\DEĞİŞKENLER.Form1.resources
+C:\Users\emel\Desktop\DEĞİŞKENLER\DEĞİŞKENLER\obj\Debug\DEĞİŞKENLER.Properties.Resources.resources
+C:\Users\emel\Desktop\DEĞİŞKENLER\DEĞİŞKENLER\obj\Debug\DEĞİŞKENLER.csproj.GenerateResource.Cache
+C:\Users\emel\Desktop\DEĞİŞKENLER\DEĞİŞKENLER\obj\Debug\DEĞİŞKENLER.exe
+C:\Users\emel\Desktop\DEĞİŞKENLER\DEĞİŞKENLER\obj\Debug\DEĞİŞKENLER.pdb
+D:\0 MEHMET\0- NTP ÖRNEKLER\DEĞİŞKENLER\DEĞİŞKENLER\bin\Debug\DEĞİŞKENLER.exe.config
+D:\0 MEHMET\0- NTP ÖRNEKLER\DEĞİŞKENLER\DEĞİŞKENLER\obj\Debug\DEĞİŞKENLER.exe
+D:\0 MEHMET\0- NTP ÖRNEKLER\DEĞİŞKENLER\DEĞİŞKENLER\obj\Debug\DEĞİŞKENLER.pdb
