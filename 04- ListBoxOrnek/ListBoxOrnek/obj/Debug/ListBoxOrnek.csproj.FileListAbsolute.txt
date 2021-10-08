@@ -1,0 +1,10 @@
+C:\Users\LAB\Desktop\ListBoxOrnek\ListBoxOrnek\bin\Debug\ListBoxOrnek.exe.config
+C:\Users\LAB\Desktop\ListBoxOrnek\ListBoxOrnek\bin\Debug\ListBoxOrnek.exe
+C:\Users\LAB\Desktop\ListBoxOrnek\ListBoxOrnek\bin\Debug\ListBoxOrnek.pdb
+C:\Users\LAB\Desktop\ListBoxOrnek\ListBoxOrnek\obj\Debug\ListBoxOrnek.csprojResolveAssemblyReference.cache
+C:\Users\LAB\Desktop\ListBoxOrnek\ListBoxOrnek\obj\Debug\ListBoxOrnek.Form1.resources
+C:\Users\LAB\Desktop\ListBoxOrnek\ListBoxOrnek\obj\Debug\ListBoxOrnek.Properties.Resources.resources
+C:\Users\LAB\Desktop\ListBoxOrnek\ListBoxOrnek\obj\Debug\ListBoxOrnek.csproj.GenerateResource.Cache
+C:\Users\LAB\Desktop\ListBoxOrnek\ListBoxOrnek\obj\Debug\ListBoxOrnek.exe
+C:\Users\LAB\Desktop\ListBoxOrnek\ListBoxOrnek\obj\Debug\ListBoxOrnek.pdb
+C:\Users\LAB\Desktop\ListBoxOrnek\ListBoxOrnek\obj\Debug\ListBoxOrnek.Form2.resources
