@@ -20,6 +20,7 @@ namespace OPERATORLER
             //Console.WriteLine(10%3);
             //Console.WriteLine(45%35);
             #endregion
+            
             #region 2- ATAMA VE ARTIRMA OPERATÖRLERİ
             // = , ++ , -- ,+= ,-= , *=  , /= , %=
             //int a,b;
@@ -43,12 +44,22 @@ namespace OPERATORLER
             #region 3- KARŞILAŞTIRMA OPERATÖRLERİ
             // < , > , <= , >= , == , !=
             
-            Console.WriteLine(3<5);
-            Console.WriteLine(5==6);
-            Console.WriteLine("mehmet"=="Mehmet");
-            Console.WriteLine(4!=5);
+            //Console.WriteLine(3<5);
+            //Console.WriteLine(5==6);
+            //Console.WriteLine("mehmet"=="Mehmet");
+            //Console.WriteLine(4!=5);
             #endregion
+            #region 4- MANTIKSAL OPERATÖRLER
+            // &&  ,  ||   , !
+            //Console.WriteLine("mehmet"==" mehmet" && 5>2);
+            //Console.WriteLine(true || true);  // true
+            //Console.WriteLine(true || false); // true
+            //Console.WriteLine(false || true); // true 
+            //Console.WriteLine(false || false); // false
+            //Console.WriteLine(!true);
+            Console.WriteLine(!(5+2>10));
 
+            #endregion
             Console.ReadKey();
         }
     }

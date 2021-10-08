@@ -16,7 +16,7 @@ namespace Operatorler_Ornek
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SayiOrnek());
+            Application.Run(new Form1());
         }
     }
 }

@@ -8,3 +8,13 @@ D:\MEHMET\OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.csproj.Gener
 D:\MEHMET\OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.exe
 D:\MEHMET\OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.pdb
 D:\MEHMET\OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.SayiOrnek.resources
+D:\MEHMET\repo\NTP\02-OPERATORLER\Operatorler_Ornek\bin\Debug\Operatorler_Ornek.exe.config
+D:\MEHMET\repo\NTP\02-OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.exe
+D:\MEHMET\repo\NTP\02-OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.pdb
+D:\MEHMET\repo\NTP\02-OPERATORLER\Operatorler_Ornek\bin\Debug\Operatorler_Ornek.exe
+D:\MEHMET\repo\NTP\02-OPERATORLER\Operatorler_Ornek\bin\Debug\Operatorler_Ornek.pdb
+D:\MEHMET\repo\NTP\02-OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.csprojResolveAssemblyReference.cache
+D:\MEHMET\repo\NTP\02-OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.Form1.resources
+D:\MEHMET\repo\NTP\02-OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.SayiOrnek.resources
+D:\MEHMET\repo\NTP\02-OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.Properties.Resources.resources
+D:\MEHMET\repo\NTP\02-OPERATORLER\Operatorler_Ornek\obj\Debug\Operatorler_Ornek.csproj.GenerateResource.Cache

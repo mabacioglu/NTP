@@ -1,0 +1,6 @@
+D:\MEHMET\repo\NTP\03- HATA TÜRLERİ\03- HATA TÜRLERİ\bin\Debug\03- HATA TÜRLERİ.exe.config
+D:\MEHMET\repo\NTP\03- HATA TÜRLERİ\03- HATA TÜRLERİ\bin\Debug\03- HATA TÜRLERİ.exe
+D:\MEHMET\repo\NTP\03- HATA TÜRLERİ\03- HATA TÜRLERİ\bin\Debug\03- HATA TÜRLERİ.pdb
+D:\MEHMET\repo\NTP\03- HATA TÜRLERİ\03- HATA TÜRLERİ\obj\Debug\03- HATA TÜRLERİ.csprojResolveAssemblyReference.cache
+D:\MEHMET\repo\NTP\03- HATA TÜRLERİ\03- HATA TÜRLERİ\obj\Debug\03- HATA TÜRLERİ.exe
+D:\MEHMET\repo\NTP\03- HATA TÜRLERİ\03- HATA TÜRLERİ\obj\Debug\03- HATA TÜRLERİ.pdb
