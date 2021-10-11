@@ -7,3 +7,4 @@ D:\MEHMET\repo\NTP\03- HATA TÜRLERİ\RunTimeHatalari\obj\Debug\RunTimeHatalari.
 D:\MEHMET\repo\NTP\03- HATA TÜRLERİ\RunTimeHatalari\obj\Debug\RunTimeHatalari.csproj.GenerateResource.Cache
 D:\MEHMET\repo\NTP\03- HATA TÜRLERİ\RunTimeHatalari\obj\Debug\RunTimeHatalari.exe
 D:\MEHMET\repo\NTP\03- HATA TÜRLERİ\RunTimeHatalari\obj\Debug\RunTimeHatalari.pdb
+D:\MEHMET\repo\NTP\03- HATA TÜRLERİ\RunTimeHatalari\obj\Debug\RunTimeHatalari.Form2.resources

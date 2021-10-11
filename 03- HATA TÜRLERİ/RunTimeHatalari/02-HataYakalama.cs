@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace RunTimeHatalari
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
         }
@@ -28,18 +28,15 @@ namespace RunTimeHatalari
                 sonuc = sayi1 / sayi2;
                 lblSonuc.Text = sonuc.ToString();
             }
-            catch // hata olduğu durumda çalışacak yer
+            catch(Exception exc)  // hata olduğu durumda çalışacak yer
             {
-                lblSonuc.Text = "Hatalı bilgi girişi";
+                MessageBox.Show(exc.Message,"HATA",MessageBoxButtons.OK,MessageBoxIcon.Error); 
             }
             finally // iki bloktan hangisi çalışırsa çalışsın bu blok sonrasında çalışır
             {
                 txtSayi1.Text = "";
                 txtSayi2.Text = null;
             }
-
-
-           
         }
     }
 }

@@ -44,16 +44,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="01-TryCatchKullanımı.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="01-TryCatchKullanımı.Designer.cs">
+      <DependentUpon>01-TryCatchKullanımı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="02-HataYakalama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="02-HataYakalama.Designer.cs">
+      <DependentUpon>02-HataYakalama.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="01-TryCatchKullanımı.resx">
+      <DependentUpon>01-TryCatchKullanımı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="02-HataYakalama.resx">
+      <DependentUpon>02-HataYakalama.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
