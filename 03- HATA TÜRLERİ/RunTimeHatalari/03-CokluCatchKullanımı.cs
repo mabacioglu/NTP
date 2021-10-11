@@ -28,18 +28,23 @@ namespace RunTimeHatalari
                 sonuc = sayi1 / sayi2;
                 lblSonuc.Text = sonuc.ToString();
             }
-            catch (DivideByZeroException)  // hata olduğu durumda çalışacak yer
+            catch (DivideByZeroException)  // hata olduğu durumda çalışacak yer: sıfıra bölünme hatası
             {
                 MessageBox.Show("Hiç bir sayı Sıfıra bölünemez, Lütfen Doğru giriş yapınız.. ", "HATA", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            catch (FormatException)  // hata olduğu durumda çalışacak yer
+            catch (FormatException)  // hata olduğu durumda çalışacak yer : yanlış formatta giriş
             {
                 MessageBox.Show("Lütfen sadece rakam girişi yapınız.. ", "HATA", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            catch (OverflowException)  // hata olduğu durumda çalışacak yer
+            catch (OverflowException)  // hata olduğu durumda çalışacak yer : değişkenini taşıyamayacağı değer girildiğinde
             {
                 MessageBox.Show("Girdiğiniz sayı çok büyük. Lütfen tekrar deneyiniz.. ", "HATA", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+            catch (Exception ee)  // hata olduğu durumda çalışacak yer
+            {
+                MessageBox.Show(ee.Message, "HATA", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
             finally // iki bloktan hangisi çalışırsa çalışsın bu blok sonrasında çalışır
             {
                 txtSayi1.Text = "";

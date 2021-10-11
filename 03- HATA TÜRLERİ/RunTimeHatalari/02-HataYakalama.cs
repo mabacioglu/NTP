@@ -32,6 +32,7 @@ namespace RunTimeHatalari
             {
                 MessageBox.Show(ee.Message,"HATA",MessageBoxButtons.OK,MessageBoxIcon.Error); 
             }
+
             finally // iki bloktan hangisi çalışırsa çalışsın bu blok sonrasında çalışır
             {
                 txtSayi1.Text = "";
