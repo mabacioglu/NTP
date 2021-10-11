@@ -56,6 +56,12 @@
     <Compile Include="02-HataYakalama.Designer.cs">
       <DependentUpon>02-HataYakalama.cs</DependentUpon>
     </Compile>
+    <Compile Include="03-CokluCatchKullanımı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="03-CokluCatchKullanımı.Designer.cs">
+      <DependentUpon>03-CokluCatchKullanımı.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="01-TryCatchKullanımı.resx">
@@ -63,6 +69,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="02-HataYakalama.resx">
       <DependentUpon>02-HataYakalama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="03-CokluCatchKullanımı.resx">
+      <DependentUpon>03-CokluCatchKullanımı.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

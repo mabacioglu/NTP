@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace RunTimeHatalari
 {
-    public partial class Form2 : Form
+    public partial class Form3 : Form
     {
-        public Form2()
+        public Form3()
         {
             InitializeComponent();
         }
@@ -28,9 +28,17 @@ namespace RunTimeHatalari
                 sonuc = sayi1 / sayi2;
                 lblSonuc.Text = sonuc.ToString();
             }
-            catch(Exception ee)  // hata olduğu durumda çalışacak yer
+            catch (DivideByZeroException)  // hata olduğu durumda çalışacak yer
             {
-                MessageBox.Show(ee.Message,"HATA",MessageBoxButtons.OK,MessageBoxIcon.Error); 
+                MessageBox.Show("Hiç bir sayı Sıfıra bölünemez, Lütfen Doğru giriş yapınız.. ", "HATA", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            catch (FormatException)  // hata olduğu durumda çalışacak yer
+            {
+                MessageBox.Show("Lütfen sadece rakam girişi yapınız.. ", "HATA", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            catch (OverflowException)  // hata olduğu durumda çalışacak yer
+            {
+                MessageBox.Show("Girdiğiniz sayı çok büyük. Lütfen tekrar deneyiniz.. ", "HATA", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             finally // iki bloktan hangisi çalışırsa çalışsın bu blok sonrasında çalışır
             {
@@ -38,5 +46,7 @@ namespace RunTimeHatalari
                 txtSayi2.Text = null;
             }
         }
+
+        
     }
 }
