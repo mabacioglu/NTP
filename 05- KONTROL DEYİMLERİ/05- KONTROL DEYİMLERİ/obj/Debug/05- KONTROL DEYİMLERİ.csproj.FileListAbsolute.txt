@@ -1,0 +1,9 @@
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\bin\Debug\05- KONTROL DEYİMLERİ.exe.config
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\bin\Debug\05- KONTROL DEYİMLERİ.exe
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\bin\Debug\05- KONTROL DEYİMLERİ.pdb
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\obj\Debug\05- KONTROL DEYİMLERİ.csprojResolveAssemblyReference.cache
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\obj\Debug\_05__KONTROL_DEYİMLERİ.Form1.resources
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\obj\Debug\_05__KONTROL_DEYİMLERİ.Properties.Resources.resources
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\obj\Debug\05- KONTROL DEYİMLERİ.csproj.GenerateResource.Cache
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\obj\Debug\05- KONTROL DEYİMLERİ.exe
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\obj\Debug\05- KONTROL DEYİMLERİ.pdb

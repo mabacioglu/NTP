@@ -1,0 +1,11 @@
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\bin\Debug\05- KONTROL DEYİMLERİ.exe.config
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\bin\Debug\05- KONTROL DEYİMLERİ.exe
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\bin\Debug\05- KONTROL DEYİMLERİ.pdb
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\obj\Debug\01-IF KULLANIMI.csprojResolveAssemblyReference.cache
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\obj\Debug\_05__KONTROL_DEYİMLERİ.PozitifNegatif.resources
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\obj\Debug\_05__KONTROL_DEYİMLERİ.Properties.Resources.resources
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\obj\Debug\01-IF KULLANIMI.csproj.GenerateResource.Cache
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\obj\Debug\05- KONTROL DEYİMLERİ.exe
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\obj\Debug\05- KONTROL DEYİMLERİ.pdb
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\obj\Debug\_05__KONTROL_DEYİMLERİ.SayiOyunu.resources
+C:\Users\LAB\Desktop\05- KONTROL DEYİMLERİ\05- KONTROL DEYİMLERİ\obj\Debug\_05__KONTROL_DEYİMLERİ.OrtalamaHesaplama.resources
