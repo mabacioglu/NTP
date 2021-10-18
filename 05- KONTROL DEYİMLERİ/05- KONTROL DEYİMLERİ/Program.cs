@@ -16,7 +16,7 @@ namespace _05__KONTROL_DEYİMLERİ
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new OrtalamaHesaplama());
+            Application.Run(new PositifNegatifSiralam());
         }
     }
 }
