@@ -161,6 +161,7 @@
             this.btnExit.TabIndex = 5;
             this.btnExit.Text = "ÇIKIŞ";
             this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // PositifNegatifSiralam
             // 

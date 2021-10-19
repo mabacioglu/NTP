@@ -84,5 +84,10 @@ namespace _05__KONTROL_DEYİMLERİ
             txtSayi2.Clear();
             txtSayi3.Clear();
         }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
