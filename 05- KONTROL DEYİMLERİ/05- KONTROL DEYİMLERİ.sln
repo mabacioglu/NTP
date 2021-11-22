@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-IC ICE IF KULLANIMI-NEST
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-SWITCH CASE", "05-SWITCH CASE\05-SWITCH CASE.csproj", "{6ED78C10-7E2F-449B-8F4E-3B1B6D07A169}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-SWITCH CASE1", "06-SWITCH CASE1\06-SWITCH CASE1.csproj", "{858ACD6F-61A6-4026-A290-6DE034AF3D62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6ED78C10-7E2F-449B-8F4E-3B1B6D07A169}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ED78C10-7E2F-449B-8F4E-3B1B6D07A169}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ED78C10-7E2F-449B-8F4E-3B1B6D07A169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858ACD6F-61A6-4026-A290-6DE034AF3D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858ACD6F-61A6-4026-A290-6DE034AF3D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858ACD6F-61A6-4026-A290-6DE034AF3D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858ACD6F-61A6-4026-A290-6DE034AF3D62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
