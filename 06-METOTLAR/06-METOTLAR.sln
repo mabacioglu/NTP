@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-METOTLAR", "06-METOTLAR\06-METOTLAR.csproj", "{0CE7F09E-D445-42E0-9EC0-721DCE3AE4A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-METOTLAR", "02-METOTLAR\02-METOTLAR.csproj", "{D73CF78D-A99A-47C5-A8F7-B981D26ECA2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0CE7F09E-D445-42E0-9EC0-721DCE3AE4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CE7F09E-D445-42E0-9EC0-721DCE3AE4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CE7F09E-D445-42E0-9EC0-721DCE3AE4A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73CF78D-A99A-47C5-A8F7-B981D26ECA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73CF78D-A99A-47C5-A8F7-B981D26ECA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73CF78D-A99A-47C5-A8F7-B981D26ECA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73CF78D-A99A-47C5-A8F7-B981D26ECA2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
