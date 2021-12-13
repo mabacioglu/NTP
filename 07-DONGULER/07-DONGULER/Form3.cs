@@ -44,6 +44,13 @@ namespace _07_DONGULER
             }
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form4 frm4 = new Form4();
+            frm4.Show();
+            this.Close();
+        }
+
         
     }
 }
