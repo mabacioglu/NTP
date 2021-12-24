@@ -16,7 +16,7 @@ namespace _07_DONGULER
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form8());
+            Application.Run(new Form10());
         }
     }
 }
