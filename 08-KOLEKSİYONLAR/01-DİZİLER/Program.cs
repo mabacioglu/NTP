@@ -51,7 +51,7 @@ namespace _01_DİZİLER
             Console.WriteLine("-------------");
             int[] sayilar2 = { 5, 6, 7, 8, 9 };
             
-            foreach (var item in sayilar2)
+            foreach (int item in sayilar2)
             {
                 Console.WriteLine(item);
             }
