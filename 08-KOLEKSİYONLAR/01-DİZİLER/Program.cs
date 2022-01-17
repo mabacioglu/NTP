@@ -15,6 +15,7 @@ namespace _01_DİZİLER
             {
                 Console.WriteLine(sayilar[i]);
             }
+
             for (int i = 0; i < 5; i++)
             {
                 sayilar[i] = i * i;
@@ -51,9 +52,9 @@ namespace _01_DİZİLER
             Console.WriteLine("-------------");
             int[] sayilar2 = { 5, 6, 7, 8, 9 };
             
-            foreach (int item in sayilar2)
+            foreach (int x in sayilar2)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(x);
             }
 
 

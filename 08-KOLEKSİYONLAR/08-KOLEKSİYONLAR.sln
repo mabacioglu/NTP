@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-DİZİLER", "01-DİZİLER\01-DİZİLER.csproj", "{CF05F83E-29FE-496B-B043-8FB70B098127}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-ARRAYLIST", "02-ARRAYLIST\02-ARRAYLIST.csproj", "{7165D1F7-C29D-4037-A11B-E93ADA786E18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CF05F83E-29FE-496B-B043-8FB70B098127}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF05F83E-29FE-496B-B043-8FB70B098127}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF05F83E-29FE-496B-B043-8FB70B098127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7165D1F7-C29D-4037-A11B-E93ADA786E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7165D1F7-C29D-4037-A11B-E93ADA786E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7165D1F7-C29D-4037-A11B-E93ADA786E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7165D1F7-C29D-4037-A11B-E93ADA786E18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
