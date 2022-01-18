@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-DİZİLER", "01-DİZİLE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-ARRAYLIST", "02-ARRAYLIST\02-ARRAYLIST.csproj", "{7165D1F7-C29D-4037-A11B-E93ADA786E18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-ARRAYLIST_ORNEK", "03-ARRAYLIST_ORNEK\03-ARRAYLIST_ORNEK.csproj", "{6E0C7AA2-4642-4CF5-8D49-E226EEB34811}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7165D1F7-C29D-4037-A11B-E93ADA786E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7165D1F7-C29D-4037-A11B-E93ADA786E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7165D1F7-C29D-4037-A11B-E93ADA786E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0C7AA2-4642-4CF5-8D49-E226EEB34811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0C7AA2-4642-4CF5-8D49-E226EEB34811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0C7AA2-4642-4CF5-8D49-E226EEB34811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0C7AA2-4642-4CF5-8D49-E226EEB34811}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
