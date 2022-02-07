@@ -16,10 +16,12 @@ namespace _02_ARRAYLIST
             dinamikListem.Add(10);
             dinamikListem.Add(true);
             dinamikListem.Add(3.14f);
+            
             foreach (object item in dinamikListem)
             {
                 Console.WriteLine(item);
             }
+
             int sonuc = (int)dinamikListem[1] * 2; // unboxing
             Console.WriteLine(sonuc);
             float sonuc1 = (float)dinamikListem[3] * 2;

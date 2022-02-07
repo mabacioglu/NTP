@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-ARRAYLIST", "02-ARRAYLIS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-ARRAYLIST_ORNEK", "03-ARRAYLIST_ORNEK\03-ARRAYLIST_ORNEK.csproj", "{6E0C7AA2-4642-4CF5-8D49-E226EEB34811}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-LIST", "04-LIST\04-LIST.csproj", "{C0CE05B0-CAAB-4BC0-AF99-A0E1BD1D4ECB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6E0C7AA2-4642-4CF5-8D49-E226EEB34811}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E0C7AA2-4642-4CF5-8D49-E226EEB34811}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E0C7AA2-4642-4CF5-8D49-E226EEB34811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0CE05B0-CAAB-4BC0-AF99-A0E1BD1D4ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CE05B0-CAAB-4BC0-AF99-A0E1BD1D4ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CE05B0-CAAB-4BC0-AF99-A0E1BD1D4ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CE05B0-CAAB-4BC0-AF99-A0E1BD1D4ECB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
