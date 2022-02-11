@@ -42,6 +42,7 @@ namespace _01_CLASS_YAPISI
             ogrt2.Ekle();
            
            
+           
             Console.ReadKey();
         }
     }
