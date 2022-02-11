@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-CLASS YAPISI", "01-CLASS YAPISI\01-CLASS YAPISI.csproj", "{AC2BAAD4-9135-446E-984A-527AD0648572}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-KitapDukkani", "02-KitapDukkani_1\_KitapDukkani\02-KitapDukkani.csproj", "{BD35F6FC-D1A4-437D-A3AD-AA5B90221BE3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_KitapDukkani", "_KitapDukkani\_KitapDukkani.csproj", "{BD35F6FC-D1A4-437D-A3AD-AA5B90221BE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AC2BAAD4-9135-446E-984A-527AD0648572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC2BAAD4-9135-446E-984A-527AD0648572}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC2BAAD4-9135-446E-984A-527AD0648572}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC2BAAD4-9135-446E-984A-527AD0648572}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BD35F6FC-D1A4-437D-A3AD-AA5B90221BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BD35F6FC-D1A4-437D-A3AD-AA5B90221BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD35F6FC-D1A4-437D-A3AD-AA5B90221BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -24,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABB6242F-3C8D-49A8-8944-326382EF1256}
 	EndGlobalSection
 EndGlobal
