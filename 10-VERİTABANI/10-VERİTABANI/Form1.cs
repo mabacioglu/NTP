@@ -19,15 +19,21 @@ namespace _10_VERİTABANI
         }
         OleDbConnection con;
         OleDbDataAdapter da;
-        DataTable dt;
+        //DataTable dt;
+        DataSet ds;
         private void button1_Click(object sender, EventArgs e)
         {
             con = new OleDbConnection("Provider=Microsoft.ACE.Oledb.12.0;Data Source=okul.accdb");
-            da = new OleDbDataAdapter("select * from Bolum",con);
-            dt = new DataTable();
+            if (radioButton1.Checked)
+                da = new OleDbDataAdapter("select * from Bolum",con);
+            if (radioButton2.Checked)
+                da = new OleDbDataAdapter("select * from Ogrenci", con);
+            ds = new DataSet();
+           // dt = new DataTable();
             con.Open();
-            da.Fill(dt);
-            dataGridView1.DataSource = dt;
+           // da.Fill(dt);
+            da.Fill(ds, "mehmet");
+            dataGridView1.DataSource = ds.Tables["mehmet"];
             con.Close();
         }
     }
