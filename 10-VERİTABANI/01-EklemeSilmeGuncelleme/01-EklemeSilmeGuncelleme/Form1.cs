@@ -78,6 +78,18 @@ namespace _01_EklemeSilmeGuncelleme
             gridDoldur();
         }
 
+        private void txtAra_TextChanged(object sender, EventArgs e)
+        {
+            connection = new OleDbConnection("Provider=Microsoft.ACE.Oledb.12.0;Data Source=okul.accdb");
+            dataAtapter = new OleDbDataAdapter("select * from ogrenci where ogr_ad like  '"+txtAra.Text+"%'  ", connection);
+            table = new DataTable();
+            connection.Open();
+            dataAtapter.Fill(table);
+            dataGridView1.DataSource = table;
+            connection.Close();
+
+        }
+
        
     }
 }
