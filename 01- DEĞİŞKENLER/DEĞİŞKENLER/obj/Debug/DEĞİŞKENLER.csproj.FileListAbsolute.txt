@@ -10,3 +10,6 @@ C:\Users\emel\Desktop\DEĞİŞKENLER\DEĞİŞKENLER\obj\Debug\DEĞİŞKENLER.pdb
 D:\0 MEHMET\0- NTP ÖRNEKLER\DEĞİŞKENLER\DEĞİŞKENLER\bin\Debug\DEĞİŞKENLER.exe.config
 D:\0 MEHMET\0- NTP ÖRNEKLER\DEĞİŞKENLER\DEĞİŞKENLER\obj\Debug\DEĞİŞKENLER.exe
 D:\0 MEHMET\0- NTP ÖRNEKLER\DEĞİŞKENLER\DEĞİŞKENLER\obj\Debug\DEĞİŞKENLER.pdb
+F:\MEHMET\repo\NTP\01- DEĞİŞKENLER\DEĞİŞKENLER\bin\Debug\DEĞİŞKENLER.exe.config
+F:\MEHMET\repo\NTP\01- DEĞİŞKENLER\DEĞİŞKENLER\obj\Debug\DEĞİŞKENLER.exe
+F:\MEHMET\repo\NTP\01- DEĞİŞKENLER\DEĞİŞKENLER\obj\Debug\DEĞİŞKENLER.pdb
